@@ -1,3 +1,4 @@
 ---
+tags: blog
 ---
 deneme blog
